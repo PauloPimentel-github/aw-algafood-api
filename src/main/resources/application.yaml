@@ -1,0 +1,8 @@
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+  datasource:
+    url: 'jdbc:mariadb://localhost/algafood?createDatabaseIfNotExist=true&serverTimezone=UTC'
+    username: root
+    password: my-secret-pwd
