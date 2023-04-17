@@ -6,3 +6,7 @@ spring:
     url: 'jdbc:mariadb://localhost/algafood?createDatabaseIfNotExist=true&serverTimezone=UTC'
     username: root
     password: my-secret-pwd
+  jpa:
+    generate-ddl: true
+    hibernate:
+      ddl-auto: create
