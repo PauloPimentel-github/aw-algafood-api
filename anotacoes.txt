@@ -11,3 +11,7 @@
 
 REST -> Estilo arquitetural que possui as Constraints, é a especificação
 RESTful -> É uma API desenvolvida em conformidade com as Constraints, segue todas as contraints obrigatórias
+
+>>> 4.8. Entendendo o que são Recursos REST
+
+Recurso -> Qualquer coisa exposta na web como por exemplo um: documento, página, imagem, vídeo ou até mesmo um processo de negócio

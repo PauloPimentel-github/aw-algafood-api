@@ -1,5 +1,4 @@
 <h1 align="center"> ESPECIALISTA SPRING REST</h1>
-
 <h2 align="center"> aw-algafood-api </h2>
 
 <p align="center">
@@ -29,9 +28,7 @@ O foco do projeto é evoluir habilidades em desenvolvimento de REST APIs com Spr
 
 ### Diagrama de Classes
 
-<p align="center">
-  <img alt="Diagrama de Classes" src="https://github.com/PauloPimentel-github/aw-algafood-api/blob/main/diagrama-classes.png?raw=true" width="100%" height="600px">
-</p>
+<img alt="Diagrama de Classes" title="Diagrama de Classes" src="https://github.com/PauloPimentel-github/aw-algafood-api/blob/main/diagrama-classes.png?raw=true" width="600px" height="600px">
 
 Feito com ♥ by Paulo H.G Pimentel
 
