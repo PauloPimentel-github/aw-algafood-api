@@ -6,3 +6,8 @@
 4. Interface uniforme
 5. Sistema em camadas
 6. Código sob demanda
+
+>>> 4.3. Diferença entre REST e RESTful
+
+REST -> Estilo arquitetural que possui as Constraints, é a especificação
+RESTful -> É uma API desenvolvida em conformidade com as Constraints, segue todas as contraints obrigatórias
