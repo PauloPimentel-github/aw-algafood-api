@@ -1,0 +1,8 @@
+>>> 4.2. Conhecendo as Constraints do REST
+
+1. Cliente-servidor
+2. Stateless
+3. Cache
+4. Interface uniforme
+5. Sistema em camadas
+6. Código sob demanda
