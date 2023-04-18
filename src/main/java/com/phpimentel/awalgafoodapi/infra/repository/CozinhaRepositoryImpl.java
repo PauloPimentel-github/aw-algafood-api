@@ -2,12 +2,14 @@ package com.phpimentel.awalgafoodapi.infra.repository;
 
 import com.phpimentel.awalgafoodapi.domain.model.Cozinha;
 import com.phpimentel.awalgafoodapi.domain.repository.CozinhaRepository;
+import org.springframework.stereotype.Component;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.transaction.Transactional;
 import java.util.List;
 
+@Component
 public class CozinhaRepositoryImpl implements CozinhaRepository {
 
     @PersistenceContext
